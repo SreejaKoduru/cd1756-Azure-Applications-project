@@ -44,6 +44,7 @@ Additionally, Azure App Service offers built-in scalability, high availability, 
 ### Assess app changes that would change your decision.
 
 *Detail how the app and any other needs would have to change for you to change your decision in the last section.* 
+
 The decision to use Azure App Service may change if the application requirements become more complex or require greater infrastructure control.
 
 For example, if the CMS application required custom operating system configurations, installation of specialized software, or advanced networking configurations, then deploying the application on Microsoft Azure Virtual Machines would be more appropriate. Virtual Machines provide full control over the operating system and server configuration, which allows developers to customize the environment according to application requirements.
